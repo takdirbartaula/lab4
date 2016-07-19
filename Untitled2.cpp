@@ -1,5 +1,5 @@
 //Program:Write a C program to find if a mathematical expression is valid or not.
-//By:Shreeya Pandey
+//By:Takdir Bartaula
 //Date:2016/07/17
 #include<stdio.h>
 #include<conio.h>
